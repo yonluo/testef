@@ -12,4 +12,4 @@ def calcular_desconto(preco, percentual):
 
 
 def multiplicar(a, b):
-    return a + b
+    return a * b
